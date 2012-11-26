@@ -1,4 +1,4 @@
-(defproject com.gateprotect/data.json "0.2.1"
+(defproject com.gateprotect/data.json "0.2.2"
   :description "Generating/parsing JSON from/to Clojure data structures.
   AOT-compiled version."
   :url "https://github.com/gateprotect/data.json"
